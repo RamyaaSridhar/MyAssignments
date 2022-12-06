@@ -1,1 +1,1 @@
-# MyAssignments
+# JavaPrograms
