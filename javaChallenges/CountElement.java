@@ -35,7 +35,7 @@ public class CountElement {
 		
 		Set<Entry<String,Integer>>entries = map.entrySet();
 		for(Entry<String,Integer>entry : entries) {
-			if(entry.getValue()!=1) {
+			if(entry.getValue()==1) {
 				System.out.println(entry.getKey());
 			}
 		}
