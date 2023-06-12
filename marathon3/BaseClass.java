@@ -15,7 +15,7 @@ public class BaseClass {
 	
 	public ChromeDriver chrome;
 	
-	@Parameters({"url","username","passwrd"})
+	@Parameters({"url","username","passw0rd"})
 	@BeforeMethod
 	public void precondition(String url,String uName, String password) throws InterruptedException {
 		
