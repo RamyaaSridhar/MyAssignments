@@ -45,7 +45,7 @@ public class Amazon {
 		
 		//Actions class
 		
-		Actions builder = new Actions(chrome);
+		Actions builder = ew Actions(chrome);
 		
 		//Search the phone
 		chrome.findElement(By.xpath("//input[@id='twotabsearchtextbox']")).sendKeys("oneplus 9 pro",Keys.ENTER);
