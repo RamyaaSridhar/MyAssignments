@@ -5,6 +5,7 @@ public class MajorityEle {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		
 		String value = sc.nextLine();
 		String[] arr = value.split(" ");
 		int res=0;
