@@ -12,6 +12,7 @@ public class AddTwoArrays {
 		String in1 = sc.nextLine();
 		String[]  arr1 = in1.split(" ");
 		String in2 = sc.nextLine();
+		
 		String[]  arr2 = in2.split(" ");
 		
 		//String arr1 [] = {"ab","c"};
