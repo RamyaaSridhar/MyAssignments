@@ -21,7 +21,7 @@ public class AddTwoArrays {
 		first.addAll(Arrays.asList(arr2));
 		System.out.println(first);*/
 		
-		int a = arr1.length;
+		int a = arr1.length
 		int b = arr2.length;
 		
 		String first="",second="";
