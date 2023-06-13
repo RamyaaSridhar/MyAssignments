@@ -11,6 +11,7 @@ import java.util.TreeSet;
 
 public class DigitFromString {
 
+	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String input = sc.nextLine();             //Myself2 Me1 I4 and3
