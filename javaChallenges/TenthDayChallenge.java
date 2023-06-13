@@ -9,6 +9,7 @@ public class TenthDayChallenge {
 		Scanner sc = new Scanner(System.in);
 		String a = sc.nextLine();
 		String b = sc.nextLine();
+		
 		char [] jewels = a.toCharArray();
 		char[] stones = b.toCharArray();
 		List <Character> list = new ArrayList<Character>();
