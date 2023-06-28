@@ -3,7 +3,7 @@
  * 2. Go to Mens Fashion
  * 3. Go to Sports Shoes//
  * 4. Get the count of the sports shoes
- * 5. Click Training shoes
+ * 5. Click Training shoes//
  * 6. Sort by Low to High
  * 7. Check if the items displayed are sorted correctly
  * 8.Select the price range (900-1200)
