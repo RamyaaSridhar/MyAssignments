@@ -11,10 +11,7 @@
  * 10 verify the all applied filters 
  * 11. Mouse Hover on first resulting Training shoes
  * 12. click QuickView button
- * 13. Print the cost and the discount percentage
- * 14. Take the snapshot of the shoes.
- * 15. Close the current window
- * 16. Close the main window.
+ * 
 */
 
 package week4.day2.Assignment;
