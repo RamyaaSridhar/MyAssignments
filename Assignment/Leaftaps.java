@@ -19,12 +19,10 @@
 		 * 
 		 * 9. Click on Widget of To Contact
 		 * 
-		 * 10. Click on Second Resulting Contact
 		 * 
-		 * 11. Click on Merge button using Xpath Locator
 		 * 
 		 *
-		 *//
+		 */
 
 package week4.day2.Assignment;
 
