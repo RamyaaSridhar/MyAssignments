@@ -24,7 +24,7 @@
 		 * 11. Click on Merge button using Xpath Locator
 		 * 
 		 *
-		 */
+		 *//
 
 package week4.day2.Assignment;
 
@@ -98,8 +98,6 @@ public class Leaftaps {
 		Thread.sleep(5000);
 		String title = chrome.getTitle();
 		System.out.println("Title of the page is:"+title);
-		
-		
 		
 		
 		
