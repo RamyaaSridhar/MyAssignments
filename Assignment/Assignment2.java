@@ -15,8 +15,7 @@
  *14) Print the Grand Total amount
  *15) Click Proceed
  *16) Click on Continue as Guest
- *17) Check if this grand total is the same in step 14
- *18) Close all windows
+ *
  */
 
 package week4.day2.Assignment;
