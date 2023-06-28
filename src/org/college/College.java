@@ -3,7 +3,7 @@ package org.college;
 public class College {
 	
 	public String collegeName() {
-		return "ABC Johnson College";
+		return "ABCD Johnson College";
 	}
 	
 	public int collegeCode() {
