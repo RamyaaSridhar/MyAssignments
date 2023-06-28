@@ -8,7 +8,7 @@
  * 7. Check if the items displayed are sorted correctly
  * 8.Select the price range (900-1200)
  * 9.Filter with color Navy 
- * 10 verify the all applied filters 
+ * 10 verify the all applied filters ///
  * 11. Mouse Hover on first resulting Training shoes
  * 12. click QuickView button
  * //
