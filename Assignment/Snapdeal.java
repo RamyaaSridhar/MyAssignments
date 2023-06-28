@@ -1,7 +1,7 @@
 /*
  * 1. Launch https://www.snapdeal.com/
  * 2. Go to Mens Fashion
- * 3. Go to Sports Shoes/
+ * 3. Go to Sports Shoes//
  * 4. Get the count of the sports shoes
  * 5. Click Training shoes
  * 6. Sort by Low to High
