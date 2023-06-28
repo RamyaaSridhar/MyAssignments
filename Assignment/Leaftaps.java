@@ -17,7 +17,7 @@
 		 * 
 		 * 8. Click on First Resulting Contact
 		 * 
-		 * 9. Click on Widget of To Contact
+		 * 
 		 * 
 		 * 
 		 * 
