@@ -1,5 +1,5 @@
 /*
-		 * //Pseudo Code-
+		 * //Pseudo Code
 		 * 
 		 * 1. Launch URL "http://leaftaps.com/opentaps/control/login"
 		 * 
