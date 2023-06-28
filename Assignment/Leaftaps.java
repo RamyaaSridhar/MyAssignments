@@ -23,9 +23,7 @@
 		 * 
 		 * 11. Click on Merge button using Xpath Locator
 		 * 
-		 * 12. Accept the Alert
-		 * 
-		 * 13. Verify the title of the page
+		 *
 		 */
 
 package week4.day2.Assignment;
