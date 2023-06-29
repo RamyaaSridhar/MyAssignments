@@ -11,9 +11,7 @@
 		 * 
 		 * 5. Click on contacts Button
 		 * 	
-		 * 6. Click on Merge Contacts using Xpath Locator
 		 * 
-		 * 7. Click on Widget of From Contact
 		 * 
 		 * 8. Click on First Resulting Contact
 		 * 
