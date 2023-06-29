@@ -9,12 +9,6 @@
 		 * 
 		 * 4. Click on CRM/SFA Link
 		 * 
-		 * 5. Click on contacts Button
-		 * 	
-		 * 
-		 * 
-		 * 8. Click on First Resulting Contact
-		 * 
 		 * 
 		 * 
 		 * 
