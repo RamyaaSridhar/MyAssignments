@@ -15,7 +15,7 @@
       *           AGENT-ADDRE-CD VALUES:                               *        
       *                1 = MR.                                         *        
       *                2 = MRS.                                        *        
-      *                3 = MISS                                        *        
+      *                3 = MIS                                       *        
            
 001000*                                                                *        
 001100*DXC º D127482 º ADDED AAC AS A NEW VALUE AS A PART OF PURE 1099 *D127482 
