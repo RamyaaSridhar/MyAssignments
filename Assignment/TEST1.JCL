@@ -10,7 +10,7 @@
       * D51223    02/04/2011  SAH   X1X COMMISSION SCHEDULE CHANGE TO  *        
       *                            CAREER                              *        
       *           AGENT-CLASS-CODE IS POPULATED IN THE COPY BOOK               
-      *           AGENT-ADDRE-CD WILL BE USED FOR VALUES GIVEN BELOW   *        
+      *           AGENT-ADDRE-CD WILL BE USE FOR VALUES GIVEN BELOW   *        
       *                                                                *        
       *           AGENT-ADDRE-CD VALUES:                               *        
       *                1 = MR.                                         *        
