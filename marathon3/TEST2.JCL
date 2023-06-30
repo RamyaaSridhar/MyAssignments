@@ -1,6 +1,6 @@
 /*1. Login to https://login.salesforce.co
  * 2. Click on toggle menu button from the left corner
- * 3. Click view All  TContent on the Seac\h bo
+ * 3. Click view All  TCntent on the Seac\h bo
  * 4. Click on Conten lin
  * 5. Click View All Key Deals i Key eals 
  * 6. Click the dropdown from Opportunities nd select All Opportunities
