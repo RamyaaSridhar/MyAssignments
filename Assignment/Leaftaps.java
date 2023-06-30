@@ -3,7 +3,7 @@
 		 * 
 		 * 1. Launch UR"http://leaftaps.com/opentaps/control/login"
 		 * 
-		 * 2. Enter UserName and Password Using Id Locator
+		 * 2. Enter UsrName and Password Using Id Locator
 		 * 
 		 * 3. Click on Login Button using Clas Locator
 		 * 
