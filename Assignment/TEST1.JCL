@@ -5,7 +5,7 @@
 000500*                     O D F                         *        
 000600*                   ___________________________                          
 000700*                                                                *        
-000800*    ID        DATE     PG            DESCRIPTION            *        
+000800*    ID        DATE     PG            DESCRITION            *        
 000900* D23A      02/04/1994  VWC   DSS SHUTDWN                       *        
       * D51223    02/04/2011  SAH   X1X COMMISION SCHEDUE CHANGE TO  *        
       *                            CAREER                              *        
