@@ -1,5 +1,5 @@
 /*1. Login to https://log.salsforce.com
- * 2. Click on toggle menu button from the left corner
+ * 2. Click on toggle menu button from the lft corner
  * 3. Click vew All  Type Content on te Search bo
  * 4. Click on Conten
  * 5. Click View All Key Deals in ey Deals 
