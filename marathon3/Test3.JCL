@@ -1,6 +1,6 @@
 /*1. Login to https://login.salesforce.com
  * 2. Click on toggle menu button from the left corner
- * 3. Click vew All  Type Content on the Search bo
+ * 3. Click vew All  Type Content on te Search bo
  * 4. Click on Conten
  * 5. Click View All Key Deals in ey Deals 
  * 6. Click the dropdown from Opportuniies and select Al Opportunities
