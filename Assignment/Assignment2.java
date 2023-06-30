@@ -5,7 +5,7 @@
  * 4) Check the title contains L'Oreal Paris(Hint-GetTitle)
  * 5) Click sort By and select customer top rated
  * 6) Click Category and click Hair->Click haircare->Shampoo
- * 7) Click->Concern->Color Protection
+ * 7) 
  * 8)check whether the Filter is applied with Shampoo
  * 9) Click on L'Oreal Paris Colour Protect Shampoo
  *10) GO to the new window and select size as 175ml
