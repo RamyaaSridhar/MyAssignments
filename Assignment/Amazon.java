@@ -1,6 +1,6 @@
 
 
-package week4.day2.Assignment;
+package week4.day2.Assignment
 
 
 
