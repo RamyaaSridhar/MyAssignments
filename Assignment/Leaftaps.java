@@ -1,7 +1,7 @@
 /*
 		 * //Pseudo Code
 		 * 
-		 * 1. Launch URL "http://leaftaps.com/opentaps/control/login"
+		 * 1. Launch UR"http://leaftaps.com/opentaps/control/login"
 		 * 
 		 * 2. Enter UserName and Password Using Id Locator
 		 * 
