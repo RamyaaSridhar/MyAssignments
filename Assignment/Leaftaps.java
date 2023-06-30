@@ -3,7 +3,7 @@
 		 * 
 		 * 1. Launch UR"http://leaftaps.com/opentaps/control/login"
 		 * 
-		 * 2. Enter UsrName and Password Using Id Locator
+		 * 2. Enter UsrNme and Password Using Id Locator
 		 * 
 		 * 3. Click on Lgi Button using Clas Locator
 		 * 
