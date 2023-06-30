@@ -3,7 +3,7 @@
  * 3. Click view All  TContent on the Searc\h bo
  * 4. Click on Content lin
  * 5. Click View All Key Deals in Key Deals 
- * 6. Click the dropdown from Opportunities and select All Opportunities
+ * 6. Click the dropdown from Opportunities nd select All Opportunities
  * 7. Click on New
  * 8. Give Opportunity Name  (From Excel
  * 9. Select Type as New Customer and Lead Source as Partner Referral
