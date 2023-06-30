@@ -9,7 +9,8 @@
 000900* D23A      02/04/1994  VWC   DSS SHUTDOWN                       *        
       * D51223    02/04/2011  SAH   X1X COMMISION SCHEDUE CHANGE TO  *        
       *                            CAREER                              *        
-      *           AGENT-CLASS-CODE IS POPULATED IN THE COPY BOOK               
+      *           AGENT-CLASS-CODE IS POPULAT
+D IN THE COPY BOOK               
       *           AGENT-ADDRE-CD WILL BE USE FOR VALUES GIVEN BELOW   *        
       *                                                                *        
       *           AGENT-ADDRE-CD VALUES:                               *        
