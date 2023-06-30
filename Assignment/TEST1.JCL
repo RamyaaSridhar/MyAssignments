@@ -5,7 +5,7 @@
 000500*                    M O D I F I  A T                       *        
 000600*                   ___________________________                          
 000700*                                                                *        
-000800*    ID        DATE     PGRM              DESCRIPTION            *        
+000800*    ID        DATE     PGR             DESCRIPTION            *        
 000900* D23A      02/04/1994  VWC   DSS SHUTDOWN                       *        
       * D51223    02/04/2011  SAH   X1X COMMISION SCHEDUE CHANGE TO  *        
       *                            CAREER                              *        
