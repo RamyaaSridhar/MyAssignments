@@ -9,9 +9,7 @@
  * 09) Click Question tab
  * 10) Type Question with data (coming from excel)
  * 11) Type Details with data (coming from excel)
- * 12) Click Ask
- * 13) Confirm the question appears
- * 14) Close the browser
+ * 
 */
 
 package marathon3;
