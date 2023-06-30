@@ -8,7 +8,6 @@
  * 
  * 8.Select the price range (900-1200)
  *
- * //
 */
 
 package week4.day2.Assignment;
