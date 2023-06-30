@@ -5,7 +5,7 @@
 		 * 
 		 * 2. Enter UserName and Password Using Id Locator
 		 * 
-		 * 3. Click on Login Button using Class Locator
+		 * 3. Click on Login Button using Clas Locator
 		 * 
 		 * 4. Click on CRM/SF
 		 
