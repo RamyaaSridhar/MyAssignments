@@ -1,6 +1,4 @@
 /*
- * 1.Load the URL https://www.amazon.in//
- * 2.search as oneplus 9 pro 
  * 
  *//
 */
