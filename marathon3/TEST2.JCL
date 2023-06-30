@@ -2,7 +2,7 @@
  * 2. Click on toggle menu button from the left corner
  * 3. Click view All  TContent on the Searc\h bo
  * 4. Click on Content lin
- * 5. Click View All Key Deals in Key Deals 
+ * 5. Click View All Key Deals i Key Deals 
  * 6. Click the dropdown from Opportunities nd select All Opportunities
  * 7. Click on Ne
  * 8. Give Opportunity Name  (From Excel
