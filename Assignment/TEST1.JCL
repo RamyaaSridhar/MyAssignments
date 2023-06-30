@@ -7,7 +7,7 @@
 000700*                                                                *        
 000800*    ID        DATE     PGRM              DESCRIPTION            *        
 000900* D23A      02/04/1994  VWC   DSS SHUTDOWN                       *        
-      * D51223    02/04/2011  SAH   X1X COMMISSION SCHEDUE CHANGE TO  *        
+      * D51223    02/04/2011  SAH   X1X COMMISION SCHEDUE CHANGE TO  *        
       *                            CAREER                              *        
       *           AGENT-CLASS-CODE IS POPULATED IN THE COPY BOOK               
       *           AGENT-ADDRE-CD WILL BE USE FOR VALUES GIVEN BELOW   *        
