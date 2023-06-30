@@ -9,7 +9,7 @@
  * 9. Select Type as New Customer and Lead Source as Partner Referral
  * 10. Give Amount as 75000 (from Excel)
  * 11. Select Close Date as Next month 20th day 
- * 12. Select Stage as Needs Analysis
+ * 12. Select Stage Needs Analysis
  * 13. Click in Primary Campaign  Source and Select first option
  * 14. Click Save and Verify the opportunity is created"
  * 15.Close the browser*/
