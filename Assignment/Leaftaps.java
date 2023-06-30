@@ -9,9 +9,7 @@
 		 * 
 		 * 4. Click on CRM/SFA Link
 		 * 
-		 * 
-		 * 
-		 * 
+		 
 		 * 
 		 *
 		 */
