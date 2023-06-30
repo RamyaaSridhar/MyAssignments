@@ -30,6 +30,4 @@ public class QuestionAsk {
 		wb.close();
 		return input;
 
-	}
 
-}
