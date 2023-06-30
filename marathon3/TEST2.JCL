@@ -4,7 +4,7 @@
  * 4. Click on Conten lin
  * 5. Click View All Key Deals i Key Deals 
  * 6. Click the dropdown from Opportunities nd select All Opportunities
- * 7. Click on Ne
+ * 7. Click on N
  * 8. Give Opportunity Name  (From Exce
  * 9. Select Type as New Customer and Lead Source as Partner Referral
  * 10. Give Amount as 75000 (from Excel)
