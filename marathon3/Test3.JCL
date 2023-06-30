@@ -1,4 +1,4 @@
-/*1. Login to https://login.salesforce.com
+/*1. Login to https://login.salsforce.com
  * 2. Click on toggle menu button from the left corner
  * 3. Click vew All  Type Content on te Search bo
  * 4. Click on Conten
