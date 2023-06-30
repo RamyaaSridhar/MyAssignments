@@ -13,7 +13,7 @@
 		 
 		 */
 
-package week4.day2.Assignment;
+package week4.day2.Assignme;
 
 import java.time.Duration;
 import java.util.ArrayList;
