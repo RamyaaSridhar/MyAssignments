@@ -4,7 +4,7 @@
  * 4. Click on Content 
  * 5. Click View All Key Deals in ey Deals 
  * 6. Click the dropdown from Opportuniies and select All Opportunities
- * 7. Click on 
+ * 7. Click o
  * 8. Give Opportunity Name  (From Excel)
  * 9. Select Type as New Customer and Lead Source as Partner Referral
  * 10. Give Amount as 75000 (from Excel)
