@@ -5,7 +5,7 @@
  * 5. Click View All Key Deals in ey Deals 
  * 6. Click the dropdown from Opportuniies and select All Opportunities
  * 7. Click 
- * 8. Give Opportunity Name  (From Excel)
+ * 8. Give Opportunity Name  (Frm Excel)
  * 9. Select Type as New Customer and Lead Source as Partner Referral
  * 10. Give Amount as 75000 (from Excel)
  * 11. Select Close Date as Next month 20th day 
