@@ -3,7 +3,7 @@
  * 3. Click vew All  Type Content on the Search box
  * 4. Click on Content 
  * 5. Click View All Key Deals in Key Deals 
- * 6. Click the dropdown from Opportunities and select All Opportunities
+ * 6. Click the dropdown from Opportuniies and select All Opportunities
  * 7. Click on 
  * 8. Give Opportunity Name  (From Excel)
  * 9. Select Type as New Customer and Lead Source as Partner Referral
