@@ -1,4 +1,4 @@
-/*1. Login to https://login.salesforce.co
+/*1. Login to https://gin.salesforce.co
  * 2. Click on toggle menu button from the left corner
  * 3. Click view All  TCntent on the Seac\h bo
  * 4. Click on Conten lin
