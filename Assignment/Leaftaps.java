@@ -7,7 +7,7 @@
 		 * 
 		 * 3. Click on Login Button using Class Locator
 		 * 
-		 * 4. Click on CRM/SFA Link
+		 * 4. Click on CRM/SFA 
 		 * 
 		 
 		 
