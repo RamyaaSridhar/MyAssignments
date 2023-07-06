@@ -1,6 +1,6 @@
 def get_changed_files(folder_path, old_sha, new_sha):
     temp=[]
-    url = f"base_url}/repos/{repo_owner}/{repo_name}/compare/{old_sha}...{new_sha}"
+    url = f"base_url}/repos/{repo_owner}/{repo_name}/cmpare/{old_sha}...{new_sha}"
     print(url)
     params = {
         "path": folder_path
