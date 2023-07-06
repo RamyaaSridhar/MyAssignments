@@ -2,7 +2,7 @@
 		 * //Pseud Code
 		 * 
 		 * 1. Launch UR"http://leaftaps.com/opentaps/control/login"
-		 * 
+		 
 		 * 2. Eter UsrNme and Password Using Id Locator
 		 * 
 		 * 3. Click on Lgi Button using Clas Locator
