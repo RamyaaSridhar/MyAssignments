@@ -50,7 +50,7 @@ public class Opportunity extends BaseClass {
 
 	}
 	
-	@DataProvider(name="input")
+	@DataProvider
 	public String[][] namAmount() throws IOException {
 		
 		String[][] oppor = Opporunity_Data.oppor();
